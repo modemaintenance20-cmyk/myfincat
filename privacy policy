@@ -1,0 +1,138 @@
+# Privacy Policy for My FinCat (Fincat)
+
+**Effective date:** October 11, 2026
+
+## 1. Introduction
+
+My FinCat (“Fincat”, “we”, “our”, or “the app”) is a personal finance and budgeting application designed to help users track expenses, manage budgets, monitor savings goals, and develop better financial habits.
+
+This Privacy Policy explains how information may be collected, used, stored, and shared when you use Fincat.
+
+## 2. Information We May Process
+
+Depending on the features you use, Fincat may process the following information:
+
+**Account information:** If you use Google Sign-In, we may receive basic account information such as your name, email address, and profile picture, subject to the permissions you grant.
+
+**Financial information:** Transactions, amounts, categories, budgets, savings goals, and related information that you enter into the app.
+
+**Payment notifications:** If you enable UPI auto-import and grant Android Notification Access, Fincat may process payment-related notification text to identify eligible transactions. Notifications may contain sensitive financial or personal information.
+
+**Bill images:** If you use Scan Bill, the app may access an image you select or a photo you take to identify item names and prices.
+
+**Usage and advertising information:** Advertising or analytics services integrated into the app may process information such as advertising identifiers, app interactions, device information, and diagnostic data, subject to their configuration and applicable permissions.
+
+**Subscription information:** If you purchase Fincat Premium, Google Play processes the purchase. The app may receive subscription status information needed to provide Premium features.
+
+## 3. How We Use Information
+
+Information may be used to:
+
+* Provide budgeting, transaction tracking, and savings-goal features.
+* Display your account name and manage your signed-in session.
+* Import eligible transactions from payment notifications when you enable the feature.
+* Extract item names and prices from bills you choose to scan.
+* Maintain your preferences and app settings.
+* Provide and verify Premium subscription access.
+* Display advertisements in the free version of the app.
+* Maintain, secure, troubleshoot, and improve the app.
+
+## 4. Storage of Financial Data
+
+Fincat is designed to keep budgeting information and transactions in local app storage where the relevant features operate locally.
+
+Uninstalling the app, clearing its storage, or losing access to the device may remove locally stored information.
+
+Signing in with Google does not, by itself, mean that your budgets and transactions are uploaded to a cloud account or synchronized across devices.
+
+Any future cloud storage or synchronization feature will be subject to the applicable privacy disclosures.
+
+## 5. Google Sign-In
+
+If you choose Google Sign-In, Google may provide the account information needed to authenticate you.
+
+Google processes information under its own privacy policy. Fincat uses the information made available through sign-in to support account-related functionality.
+
+Google Sign-In is not permission to access your bank account or banking credentials.
+
+Google Privacy Policy: https://policies.google.com/privacy
+
+## 6. Notification Access and UPI Auto-Import
+
+UPI auto-import is optional. If you enable it, Android may ask you to grant Notification Access.
+
+This permission can allow Fincat to read notification content from apps covered by that Android permission. Such notifications may contain names, payment amounts, transaction details, or other sensitive information.
+
+Fincat uses this access for the transaction-import functionality you enable. You can revoke Notification Access in Android settings.
+
+You should enable this feature only if you are comfortable granting the required permission. Fincat does not require your UPI PIN, bank password, or one-time password to import transactions from notifications.
+
+## 7. Bill Scanning and Camera Access
+
+If you use Scan Bill, you may take a photo using your camera or select an existing image.
+
+The app processes the selected image to identify relevant item names and prices. Camera and image access are used for this feature.
+
+Do not scan or submit documents containing information you do not want processed, such as phone numbers, addresses, or payment credentials.
+
+The actual storage and processing of bill images depend on the app's implementation and the services it uses.
+
+## 8. Advertising and Analytics
+
+The free version of Fincat may display banner and interstitial advertisements. We may use third-party advertising services, including Google AdMob, if integrated into the released app.
+
+These providers may process device identifiers, advertising identifiers, usage information, and other information permitted by their SDKs and your device settings to deliver or measure advertisements, prevent fraud, and support advertising operations.
+
+You can manage available advertising privacy settings through your Android device and applicable Google settings.
+
+Google's advertising information: https://policies.google.com/technologies/ads
+
+## 9. Fincat Premium and Payments
+
+Fincat Premium is intended to provide an ad-free experience for the applicable subscription price and terms displayed in Google Play.
+
+Purchases and subscription payments are handled through Google Play. Fincat does not ask users to provide their complete card number or Google Play payment credentials directly to the app.
+
+Google Play's terms and privacy practices apply to purchases made through its services.
+
+## 10. Data Sharing
+
+We do not sell your personal financial records as a product.
+
+Information may be processed by service providers when necessary to operate features you choose, such as Google authentication, advertising, analytics, or subscription verification.
+
+Information may also be disclosed when required by law or when reasonably necessary to protect the security and integrity of the app.
+
+The specific information shared depends on the services and SDKs included in the version you use.
+
+## 11. Data Security
+
+We use reasonable measures appropriate to the app's implementation to protect information.
+
+No application or electronic storage system can guarantee absolute security. You should keep your device secure and avoid sharing sensitive financial information unnecessarily.
+
+## 12. Children's Privacy
+
+Fincat is not intended to knowingly collect personal information from children in violation of applicable laws. If you believe a child has provided personal information inappropriately, please contact us so the issue can be reviewed.
+
+## 13. Your Choices and Data Deletion
+
+You can choose whether to use Google Sign-In, enable Notification Access, scan bills, or use optional app features.
+
+You can revoke Notification Access through Android settings and manage Google account permissions through your Google Account.
+
+Locally stored app data may be deleted by clearing the app's storage or uninstalling the app. This may permanently remove information that has not been backed up.
+
+For assistance with account-related information or privacy requests, contact us using the details below.
+
+## 14. Changes to This Policy
+
+We may update this Privacy Policy when the app's features, services, or legal requirements change. The revised policy will be published at the same URL with an updated effective date.
+
+## 15. Contact Us
+
+For privacy questions, requests, or concerns about Fincat, contact:
+
+**Email:** [supportmyfincatapp@gmail.com](mailto:supportmyfincatapp@gmail.com)
+
+**App:** My FinCat (Fincat)
