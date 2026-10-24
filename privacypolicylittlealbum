@@ -1,0 +1,52 @@
+Little Album Privacy Policy
+Effective date: October 24, 2026
+
+This policy explains how the Little Album app (“the app”), published by [Your name or company] (“we”, “us”), handles information.
+
+1. The short version
+Little Album has no accounts and we run no servers that receive your photos, notes or voice memos. Your content stays on your device. The app shows ads provided by Google AdMob, which collects some device information as described below.
+
+2. Information stored on your device
+The app saves the following on your phone, in the app’s private storage:
+
+photos you take with the app, and their captions, notes and film settings;
+time capsules you create: the selected prints, your note, any voice memo you record, and the date and time you choose;
+app settings, such as your chosen film roll and which filters you have unlocked.
+We do not receive or have access to this content. It is not uploaded to us.
+
+3. Permissions the app uses
+Camera: to take photos inside the app.
+Microphone: only when you record a voice memo for a time capsule.
+Notifications, exact alarms and boot completed: to tell you when a time capsule opens, even after your phone restarts.
+Foreground service (media playback) and wake lock: to play a voice memo when a capsule opens.
+Vibration: for haptic feedback.
+Internet and network state: to show ads and load fonts.
+Advertising ID: used by the advertising service described below.
+4. Advertising (Google AdMob)
+The app shows interstitial ads through Google AdMob. When ads are requested, Google and its partners may collect and use information such as your device’s advertising ID, IP address, device and app information, and ad interactions, to serve and measure ads, prevent fraud, and, where you allow it, personalize ads. We do not receive this data from Google in a form that identifies you. See how Google uses information from sites or apps that use its services and the Google Privacy Policy.
+
+Where required by law (for example in the European Economic Area and the United Kingdom), the app asks for your consent through Google’s consent form before requesting ads. You can reset or limit your advertising ID and ad personalization in your Android settings (Settings → Google → All services → Ads).
+
+5. Fonts
+The app loads fonts from Google Fonts. Your device sends a standard web request, including your IP address, to Google to download them.
+
+6. Backups
+If Android backup is turned on for your device, your app data may be included in your Google account backup under Google’s terms. We do not control or access these backups.
+
+7. Sharing
+We do not sell your personal information. We do not share your photos, notes or voice memos with anyone. The only third party involved is Google, through advertising and fonts as described above.
+
+8. Retention and deletion
+Your content stays on your device until you delete it. You can delete individual prints and capsules in the app, use “Reset vault” in Settings to delete everything, or uninstall the app. Because we hold no copy, we cannot recover deleted content.
+
+9. Children
+Little Album is not directed to children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided information through the app, contact us.
+
+10. Security
+Your content is stored in the app’s private storage, which other apps cannot normally read. No method of storage is perfectly secure, and a lost or unlocked phone can expose its contents, so we recommend using a screen lock.
+
+11. Your choices and rights
+Depending on where you live, you may have rights over personal information held about you. Because we do not hold your content, most requests can be handled by deleting it on your device. For questions about data handled by Google, use Google’s privacy controls. You can also contact us at the email above.
+
+12. Changes
+We may update this policy. The effective date above shows the latest version, and material changes will be noted in the app listing or an app update.
