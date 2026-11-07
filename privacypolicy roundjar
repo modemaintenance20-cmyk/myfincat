@@ -1,0 +1,99 @@
+# Privacy Policy – Roundup Jar
+
+**Effective Date:** November 7, 2026
+
+## 1. Introduction
+
+Welcome to Roundup Jar.
+
+Roundup Jar is a personal savings-tracking application that helps users build a saving habit by recording amounts they choose to save. Users can enter an amount, such as ₹10, and the app adds a corresponding virtual coin to their savings jar.
+
+Your privacy is important to us. This Privacy Policy explains what information Roundup Jar handles, how it is used, and how it is protected.
+
+**Application Name:** Roundup Jar  
+**Package Name:** `com.roundupjar.app`
+
+## 2. Information We Handle
+
+Depending on the features you use, Roundup Jar may handle:
+
+- Savings amounts manually entered by you.
+- Virtual coins and jar balances.
+- Savings goals and progress.
+- Savings history and transaction dates.
+- App preferences and settings.
+- Basic technical information required for the application to function.
+
+Roundup Jar does not require access to your bank account to record savings.
+
+## 3. How We Use Your Information
+
+Information entered into Roundup Jar is used to:
+
+- Add virtual coins to your savings jar.
+- Calculate and display your savings balance.
+- Track your savings history.
+- Display progress toward savings goals.
+- Maintain your app preferences.
+- Provide the core functionality of the application.
+
+## 4. Financial Information
+
+Roundup Jar is a savings-tracking tool, not a banking application.
+
+- We do not initiate bank transfers.
+- We do not collect bank login credentials.
+- We do not process deposits or withdrawals.
+- Virtual coins displayed in the app do not represent actual money held by us.
+- Amounts entered by users are records for personal tracking purposes.
+
+## 5. Data Storage
+
+Savings information may be stored locally on your device or through a storage service if one is implemented in the application.
+
+Where information is stored locally, it generally remains on your device until you delete it or uninstall the application, subject to your device's backup settings.
+
+If cloud storage or synchronization is introduced, this policy will be updated to explain the relevant service and data handling.
+
+## 6. Information Sharing
+
+We do not sell your personal information.
+
+We do not share your savings records with banks, advertisers, or other third parties for their independent marketing purposes.
+
+If third-party services are integrated into the application, their data practices will be disclosed in an updated policy where applicable.
+
+## 7. Data Security
+
+We take reasonable measures to protect information handled by the application against unauthorized access, alteration, or disclosure.
+
+However, no electronic storage method can guarantee absolute security.
+
+## 8. Data Retention and Deletion
+
+Your savings records are retained for as long as necessary to provide the application's functionality.
+
+You may delete information using available in-app deletion features or by removing locally stored application data.
+
+If any server-side storage is used, users will be provided with an appropriate method to request deletion of their associated data.
+
+## 9. Children's Privacy
+
+Roundup Jar is not specifically designed to collect personal information from children. We do not knowingly collect children's personal information without appropriate authorization where required by law.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy when application features, data practices, or legal requirements change.
+
+Any updated version will be published with a revised effective date.
+
+## 11. Contact Information
+
+For questions, privacy concerns, or requests regarding your data, contact:
+
+**Developer:** [Your Developer or Company Name]  
+**Email:** [Your Privacy Contact Email]
+
+## 12. Consent
+
+By using Roundup Jar, you acknowledge that you have read this Privacy Policy and understand how information is handled by the application.
