@@ -1,0 +1,58 @@
+Whisky Hab Privacy Policy
+Last updated: November 11, 2026
+Whisky Hab (package name com.gairigaun.whiskyhab) is an Android app that helps you start one habit or stop one habit. This policy explains what the app does with your information. It is written by [Your name or company] ("we", "us"). You can reach us at [your email address].
+The short version
+• We do not collect your personal information. We have no servers and no user accounts.
+• Your habits, streaks and settings stay on your phone.
+• Your photos are checked on your phone by an AI model. They are never uploaded and never saved.
+• The app has no ads, no analytics and no tracking.
+• The only time the app uses the internet is to download its AI model once.
+Information the app stores on your phone
+The app stores the following in its private storage on your device:
+• The habits you create: the habit name, whether it is a "start" or "stop" habit, the check-in time, and whether it repeats every day or every 2 days.
+• Your progress: your streak count and the date you last completed a check-in.
+• Whether the AI model has finished downloading.
+This information never leaves your device. We cannot see it. Habit names can be personal (for example, quitting smoking or junk food), so we keep them local on purpose. The app turns off Android's cloud backup, so this information is not copied to your Google account either.
+Photos and the camera
+When a check-in is due, the app asks you to take a photo with your camera so it can confirm the habit. The photo is held in your phone's memory and analyzed on the phone by the AI model. The photo is not saved to your gallery, not stored by the app, and not sent to us or anyone else. It is discarded as soon as the check finishes.
+The AI model download
+The first time you open the app, it asks to download an AI model (about 155 MB). The files come from Hugging Face (huggingface.co), which hosts the public CLIP model published by Xenova. When your phone downloads the files, Hugging Face receives standard internet request information, such as your IP address and device type. We do not send them anything else, and we do not receive that information. Hugging Face handles it under its own privacy policy: https://huggingface.co/privacy
+After the download finishes, the app runs offline. The AI model runs on your phone using ONNX Runtime, a library that processes data locally.
+Permissions the app asks for
+Permission
+Why the app needs it
+Camera
+To take the photo for your check-in.
+Display over other apps
+To show the lock screen on top of whatever you are doing at check-in time.
+Full-screen alerts
+To show the lock screen when your phone is locked or the screen is off.
+Notifications
+To show the check-in alert.
+Exact alarms
+To start the check-in at the time you chose.
+Foreground service
+To open the lock screen reliably from the background.
+Vibrate and wake lock
+To vibrate and keep the screen on during a check-in.
+Run at startup
+To set your check-in times again after your phone restarts.
+Internet
+Only to download the AI model.
+These permissions are used only for the purposes above. The app does not read your contacts, location, messages, files or other apps.
+The emergency call button
+The lock screen includes an Emergency call button. It opens your phone's dialer. The app does not see the numbers you dial or the calls you make.
+Sharing and selling
+We do not sell, rent or share your information. The app has no advertising, analytics, crash-reporting or other tracking tools.
+How long we keep information and how to delete it
+Because everything is stored only on your phone, you are in control of it:
+• Tap Remove next to a habit to delete that habit.
+• Clear the app's storage in Android settings, or uninstall the app, to delete all habits, streaks and the downloaded AI model.
+Security
+Your data is kept in the app's private storage, which Android protects from other apps. Because we do not collect your data, there is nothing for us to lose or leak. No method of storing data is perfectly secure, so please also protect your phone with a screen lock.
+Children
+Whisky Hab is not directed at children under 13, and we do not knowingly collect information from anyone. Since the app stores nothing outside the device, no child's information reaches us.
+Not medical advice
+Whisky Hab is a motivation tool. It does not provide medical advice and is not a treatment for any health condition. If you are trying to stop a habit that affects your health, please talk to a healthcare professional.
+Changes to this policy
+If we change this policy, we will update the date at the top and publish the new version at [URL where this policy is hosted]. If a change affects how your information is handled, we will tell you in the app.
