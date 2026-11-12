@@ -1,0 +1,200 @@
+# Privacy Policy for Whisky Cal
+
+**Effective Date:** November 12, 2026  
+**Last Updated:** November 12, 2026
+
+## 1. Introduction
+
+Welcome to Whisky Cal ("we", "our", or "the app").
+
+Whisky Cal is a calendar, notes, productivity, and personal planning application featuring an on-device AI assistant called Whisky AI.
+
+Your privacy is important to us. Whisky Cal is designed with a privacy-first approach. Your personal notes, tasks, check-ins, lists, and other personal information are stored locally on your device.
+
+This Privacy Policy explains what information the app accesses, how it is used, where it is stored, and what choices you have.
+
+By using Whisky Cal, you acknowledge the practices described in this Privacy Policy.
+
+## 2. Information We Collect and Access
+
+Whisky Cal is designed to minimize the collection of personal information.
+
+### A. Information Stored on Your Device
+
+The following information is stored locally on your device:
+
+- Calendar events and schedules.
+- Tasks, reminders, and custom event types.
+- Personal notes and meeting transcripts.
+- AI-generated summaries, key topics, and action items.
+- Mood, energy, and daily check-ins.
+- Personal lists, including books and things to watch.
+- Workout logs and activity records.
+- App preferences, including accent colors, focus settings, and AI personality preferences.
+- Information you voluntarily provide to personalize your experience.
+
+We do not operate a cloud account system to collect or store this personal app content.
+
+### B. Calendar Information
+
+Whisky Cal requests calendar permission to display and create calendar events on your device.
+
+When you grant calendar permission:
+
+- The app can read calendar events to display your schedule.
+- The app can create events and reminders.
+- Events may synchronize with Google Calendar or other calendar services configured on your device.
+
+Calendar synchronization is managed by your device's operating system and the calendar provider. Whisky Cal does not independently operate a calendar synchronization server.
+
+### C. Microphone and Voice Recordings
+
+Whisky Cal may request microphone permission so you can record meetings, conversations, and personal voice notes.
+
+Audio is processed using your phone's speech recognition capabilities to generate text transcripts.
+
+Voice recordings and resulting transcripts are intended to remain on your device. We do not operate our own server to collect or store your recordings.
+
+Speech recognition availability and offline functionality depend on the language packs and capabilities installed on your device.
+
+### D. Internet and Web Search Information
+
+Whisky AI can search the internet when you explicitly request information, research, or assistance with planning.
+
+When you use this feature:
+
+- Your search query is sent to the relevant search service.
+- Search results are retrieved from external websites.
+- The AI may inspect relevant publicly accessible web pages to help you evaluate options.
+- Selected information may be used to help you create calendar events or tasks.
+
+Only the information necessary to perform the requested search is intended to be transmitted.
+
+Please avoid including sensitive personal information in search queries.
+
+External search providers and websites may independently collect information according to their own privacy policies.
+
+## 3. On-Device Artificial Intelligence
+
+Whisky Cal uses an AI model that runs locally on your device.
+
+The AI model is downloaded or selected by you and operates on your phone.
+
+On-device AI features may include:
+
+- Summarizing notes and recordings.
+- Extracting key topics and action items.
+- Answering questions about your notes.
+- Helping organize tasks and schedules.
+- Understanding natural-language calendar and planning requests.
+
+Your notes and personal content are processed locally for these AI features.
+
+The AI model does not require you to upload your personal notes to our servers.
+
+Some AI-powered web search and research features require an internet connection and transmit the search queries you submit.
+
+## 4. Third-Party Services
+
+Whisky Cal may interact with third-party services when you choose to use certain features.
+
+These may include:
+
+- Search engines and web search providers.
+- Google Calendar or other calendar providers configured on your device.
+- Android speech recognition services.
+- Google Docs, Gmail, Google Drive, Google Keep, Google Tasks, and other applications through Android's sharing functionality.
+
+When you choose to share information with another application, that application processes the information under its own privacy policy and terms.
+
+We do not control the privacy practices, security, or data retention policies of third-party services.
+
+We encourage you to review the privacy policies of any external services you use.
+
+## 5. Data Storage and Security
+
+Whisky Cal is designed to keep personal information on your device rather than on our servers.
+
+We do not operate a cloud database for your notes, tasks, check-ins, calendar content, or personal lists.
+
+The security of locally stored information also depends on your device's operating system, device security settings, backups, and physical access controls.
+
+We recommend:
+
+- Keeping your device protected with a screen lock.
+- Keeping Android and the app updated.
+- Being careful when sharing personal information with other applications.
+- Using secure device backups when appropriate.
+
+We cannot guarantee absolute security of information stored on any electronic device.
+
+## 6. Data Sharing
+
+We do not sell, rent, or trade your personal information.
+
+We do not independently transmit your locally stored notes, tasks, check-ins, or personal lists to advertising companies.
+
+Information may leave your device when you:
+
+- Explicitly request an internet search using Whisky AI.
+- Share a note or other content with another application.
+- Use calendar synchronization provided by your device or calendar provider.
+
+In these situations, information is processed by the relevant third-party service.
+
+## 7. Permissions Used by the App
+
+Whisky Cal may request the following Android permissions:
+
+**Microphone:** Used to record voice notes, meetings, and conversations.
+
+**Calendar:** Used to read and create calendar events and reminders.
+
+**Internet:** Used when you request web searches and online research through Whisky AI.
+
+Permissions are requested to support the relevant app features. You can manage or revoke permissions through your Android device settings. Some features may not work without the corresponding permission.
+
+## 8. Data Retention and Deletion
+
+Your personal app information is stored locally on your device.
+
+You can manage or delete your information through the app's available features and your device settings.
+
+Uninstalling the app may remove locally stored app data, depending on your Android version and backup settings.
+
+Information previously shared with third-party applications or synchronized with external calendar services may remain with those services. You may need to delete that information directly through the relevant service.
+
+## 9. Children's Privacy
+
+Whisky Cal is not specifically designed for children under the age of 13.
+
+We do not knowingly collect personal information from children through our own servers.
+
+If you believe that a child has provided personal information through an external service used by the app, please contact the relevant service provider.
+
+## 10. Your Privacy Rights
+
+Depending on your location and applicable privacy laws, you may have rights to:
+
+- Access personal information.
+- Correct inaccurate information.
+- Delete personal information.
+- Restrict certain processing.
+- Object to certain data processing.
+- Withdraw permissions granted to the app.
+
+Because most personal information is stored locally on your device, you can manage much of it directly without contacting us.
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to the app, its features, or applicable legal requirements.
+
+Any updated version will be published with a revised Last Updated date.
+
+We encourage you to review this page periodically.
+
+## 12. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or your privacy while using Whisky Cal, please contact us:
+
+**App Name:** Whisky Cal
