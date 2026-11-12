@@ -1,0 +1,98 @@
+# PurrCall Privacy Policy
+
+**Effective date:** 12 November 2026
+
+PurrCall ("we", "our", or "the App") is an audio recording and transcription application designed with privacy in mind. This Privacy Policy explains how information is handled when you use PurrCall.
+
+## 1. Information We Handle
+
+Depending on the features you use, PurrCall may access or process:
+
+- **Audio recordings:** Audio recorded within the app or imported from your device.
+- **Transcriptions:** Text generated from supported audio recordings.
+- **Summaries and extracted details:** Summaries, key points, dates, amounts, and other information generated from transcripts.
+- **App preferences:** Settings and preferences required for the app to function.
+
+## 2. How Your Information Is Stored
+
+PurrCall is designed to process and store your recordings, transcripts, summaries, and downloaded speech models locally in the app's private storage on your device.
+
+Your recordings and transcripts are not uploaded to a PurrCall cloud server for transcription or summarization.
+
+Information stored in the app's private storage is generally removed when you uninstall the app. However, Android device backups or other backup services may retain app data according to your device settings and their policies.
+
+## 3. Offline Recording and Transcription
+
+PurrCall supports recording audio within the app and importing compatible audio files.
+
+Supported transcription features use an on-device Whisper speech model. Once the required model has been downloaded, supported transcription can be performed on your device without a cloud transcription subscription.
+
+Local summarization and transcript analysis are designed to process your information on your device.
+
+## 4. Permissions
+
+PurrCall may request the following Android permissions when required by its features:
+
+- **Microphone:** To record audio.
+- **Storage or media access:** To select and import compatible audio files, where required by your Android version.
+- **Notifications:** To display recording or processing notifications, where applicable.
+- **Internet access:** To download required speech models and support functions that require an internet connection.
+
+You can manage app permissions through your Android device settings. Disabling a permission may prevent the associated feature from working.
+
+## 5. Sharing and Disclosure
+
+PurrCall does not sell your personal information.
+
+Your recordings, transcripts, and summaries are designed to remain in the app's private storage and are not shared with us for cloud transcription.
+
+If you choose to export, share, or send a recording, transcript, or summary using another application, that information will be handled according to the receiving application's privacy policy.
+
+## 6. Phone Calls and Third-Party Calling Apps
+
+Android and individual calling applications may restrict access to call audio. PurrCall does not bypass these restrictions and does not guarantee automatic recording of regular phone calls or calls made through WhatsApp, Instagram, or other third-party applications.
+
+Recording availability depends on Android, device manufacturers, and the applications involved.
+
+You are responsible for obtaining any consent required by applicable laws before recording conversations.
+
+## 7. Data Retention and Deletion
+
+Your recordings, transcripts, summaries, and related app data remain on your device until you delete them or uninstall PurrCall.
+
+You can delete individual recordings and associated information using the app's available controls.
+
+Uninstalling PurrCall generally removes its private app data from the device. Any copies you have exported, shared, or backed up separately may remain elsewhere.
+
+## 8. Children's Privacy
+
+PurrCall is not specifically designed to collect personal information from children. We do not knowingly collect personal information from children through a PurrCall cloud service.
+
+If you believe a child has provided personal information through a service associated with the app, please contact us.
+
+## 9. Security
+
+PurrCall uses Android's private app storage to help keep app data separate from other applications.
+
+No method of electronic storage or transmission is completely secure. We encourage you to protect your device with an appropriate screen lock and keep your Android operating system up to date.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy when the app's features, functionality, or legal requirements change.
+
+Any updated version will be made available with a revised effective date. Continued use of PurrCall after an update means you acknowledge the updated policy.
+
+## 11. Contact Us
+
+If you have questions about this Privacy Policy or PurrCall's privacy practices, contact:
+
+**App:** PurrCall  
+**Developer:** [Your developer or company name]  
+**Email:** [Your support email address]  
+**Website:** [Your website, if available]
+
+---
+
+**PurrCall — Record. Transcribe. Remember.**
+
+Your conversations deserve privacy.
