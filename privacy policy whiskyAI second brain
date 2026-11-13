@@ -1,0 +1,245 @@
+# Privacy Policy
+## Secure Whisky AI Copy
+
+**Effective date:** November 13, 2026  
+**Last updated:** November 13, 2026
+
+Secure Whisky AI Copy ("Whisky", "we", "our", or "the App") is a personal memory and AI-assisted information management application. It helps users capture, organize, search, and retrieve information from screenshots, images, text, and other content.
+
+Our guiding principle is simple: **Your memories should remain yours.**
+
+Whisky is designed to work offline wherever possible. Internet-connected features are optional and are intended to provide additional functionality without making basic local features dependent on an internet connection.
+
+This Privacy Policy explains what information the App may process, how it is used, where it is stored, and what choices users have.
+
+---
+
+## 1. Information We Process
+
+Depending on the features you choose to use, Whisky may process the following categories of information.
+
+### A. Content You Save
+
+You may choose to save:
+
+- Screenshots and images.
+- Text copied or shared into the App.
+- Website links and shared URLs.
+- Notes and personal information you enter.
+- Documents and other supported files.
+- Captions, tags, categories, and reminders.
+
+This content may contain personal or sensitive information. You should only save information you are comfortable storing in the App.
+
+### B. Image and Text Information
+
+When you use supported recognition features, Whisky may process images to extract:
+
+- Text appearing in screenshots and images.
+- Dates, names, addresses, and other recognizable information.
+- Product names and descriptions.
+- Other information useful for organizing and searching your memories.
+
+Where supported, this processing takes place locally on your device.
+
+### C. Device and Technical Information
+
+The App may process limited technical information necessary to operate correctly, such as:
+
+- App version.
+- Android version.
+- Processing status.
+- Local storage and database information.
+- Technical error information, if diagnostic reporting is enabled.
+
+We do not intentionally collect unnecessary personal information for advertising or profiling.
+
+---
+
+## 2. How We Use Information
+
+Information processed by Whisky is used to provide the App's features, including:
+
+- Saving and organizing memories.
+- Extracting text from images.
+- Categorizing saved information.
+- Searching saved content.
+- Generating summaries and descriptions where supported.
+- Identifying related memories.
+- Managing reminders and user preferences.
+- Improving reliability and fixing technical problems.
+
+We do not sell users' saved memories or personal content.
+
+---
+
+## 3. Offline Processing and Local Storage
+
+Whisky is designed with an offline-first approach.
+
+Core functionality is intended to operate without an internet connection, including supported local capture, storage, text recognition, and search features.
+
+Information stored locally remains on the user's device unless the user chooses to use a feature that sends information elsewhere.
+
+Users should understand that local storage is not automatically equivalent to encrypted storage. The level of protection depends on the security implementation in the installed version of the App and the security of the device itself.
+
+We recommend keeping Android updated and using a secure device lock.
+
+---
+
+## 4. Internet and Connected Features
+
+Whisky may offer optional internet-connected features.
+
+These may include:
+
+- Web searches.
+- Online information retrieval.
+- External service integrations.
+- Optional cloud-based AI processing.
+- Optional synchronization between devices.
+
+When you use a connected feature, relevant information may be transmitted to the service required to fulfil your request.
+
+For example, a web search may send your search query to an external search provider or open it in your browser.
+
+External services operate under their own privacy policies and terms.
+
+**We will not represent online processing as entirely local.** Before information is sent to an external AI or other service, the App should clearly communicate what information will be shared and obtain any required permission or user action.
+
+You can avoid connected processing by not using those features or disabling them where the App provides that option.
+
+---
+
+## 5. AI Processing
+
+Whisky may use artificial intelligence to help users understand and retrieve saved information.
+
+Depending on the feature and version, AI processing may take place:
+
+- Directly on your device using locally installed models.
+- Through an external AI provider when you explicitly use an online AI feature.
+
+Local AI processing is intended to avoid sending the processed content to an external AI service.
+
+Online AI processing may require sending the relevant prompt, text, image, or other information to the selected provider.
+
+The privacy practices of an external AI provider are governed by that provider's own policy and applicable agreements.
+
+We do not use users' private memories to train our own AI models unless we introduce a separate, clearly disclosed feature and obtain the appropriate consent.
+
+---
+
+## 6. Permissions
+
+Whisky may request Android permissions or access through Android's system selection interfaces to provide specific features.
+
+These may include:
+
+- **Photos and images:** to access screenshots and images you choose to import or authorize.
+- **Notifications:** to provide reminders and other notifications you enable.
+- **Internet:** to support optional connected features.
+- **Camera:** only if a camera-based capture feature is provided and used.
+
+Permissions are requested for the relevant functionality. You can manage supported permissions through Android Settings.
+
+Whisky should not access content outside the scope of permissions and user actions granted to it.
+
+---
+
+## 7. Data Sharing
+
+We do not sell personal information or users' saved memories.
+
+Information may be shared in limited circumstances:
+
+1. **At your direction:** when you explicitly use an online feature or share content with another application.
+2. **External service providers:** when a connected feature requires a third-party provider to process your request.
+3. **Legal requirements:** when disclosure is required by applicable law or a valid legal process.
+4. **Security and protection:** where disclosure is reasonably necessary to protect users, the App, or other people from fraud, abuse, or security threats.
+
+We do not intentionally make your locally stored memories publicly accessible.
+
+---
+
+## 8. Data Retention and Deletion
+
+Locally stored memories are generally retained until you delete them or uninstall the App, subject to Android storage and backup behaviour.
+
+You can use available in-app controls to delete individual memories or other stored information.
+
+If optional synchronization or online services are introduced, additional retention and deletion rules may apply to information stored by those services.
+
+Deleting information from your device does not necessarily delete copies already shared with external services, browser providers, or other applications.
+
+---
+
+## 9. Data Security
+
+We take reasonable technical and organizational measures to protect information processed by Whisky.
+
+Depending on the implemented version, these measures may include:
+
+- Android application sandboxing.
+- Secure local storage.
+- Encryption and Android Keystore integration.
+- Restricted access to application data.
+- Secure communication with supported online services.
+- Privacy-conscious logging and error reporting.
+
+No application, device, or internet transmission can be guaranteed to be completely secure.
+
+Users should avoid saving passwords, authentication codes, financial credentials, or other highly sensitive information unless they understand and accept the associated risks.
+
+---
+
+## 10. Children's Privacy
+
+Whisky is not specifically designed for children.
+
+We do not knowingly collect personal information from children in violation of applicable privacy laws. If we become aware that personal information has been collected unlawfully from a child, we will take appropriate steps to address it.
+
+---
+
+## 11. Your Privacy Choices and Rights
+
+Depending on your location and applicable law, you may have rights to:
+
+- Access personal information held about you.
+- Request correction of inaccurate information.
+- Request deletion of personal information.
+- Withdraw consent where processing relies on consent.
+- Object to or restrict certain processing.
+- Request information about how your information is used.
+
+You can also control what you capture, which connected features you use, and which memories you retain.
+
+To make a privacy-related request, contact us using the details below.
+
+---
+
+## 12. Third-Party Services
+
+Some optional features may rely on external services, including search providers, AI providers, hosting services, or synchronization infrastructure.
+
+Those services may process information under their own privacy policies.
+
+We encourage users to review the policies of external providers before using connected features.
+
+---
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy when the App's features, technology, or legal requirements change.
+
+The updated policy will be made available through an appropriate App or website location. The revised effective date will be displayed at the beginning of the policy.
+
+Where required by law, we will provide additional notice or obtain consent before introducing materially different processing practices.
+
+---
+
+**Our Privacy Commitment**
+
+Secure Whisky AI Copy is built around the belief that personal information should remain under the user's control.
+
+Our goal is to make Whisky useful without the internet, intelligent without a subscription, and more powerful when users choose to connect it.
